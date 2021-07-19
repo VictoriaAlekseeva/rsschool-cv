@@ -4,7 +4,12 @@ Stockholm, Sweden
 
 **Contacts:**
 
-- **About me:** unemployed, looking for new carrier opportunities.
+- discord: vic#6414
+- telegram: @vicalekseeva
+- email: a.victoria@inbox.ru
+- GitHub: https://github.com/VictoriaAlekseeva
+
+* **About me:** unemployed, looking for new carrier opportunities.
 
   **Skills:** Beginner in HTML, CSS, JS
 
