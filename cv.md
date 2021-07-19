@@ -9,11 +9,11 @@ Stockholm, Sweden
 - email: a.victoria@inbox.ru
 - GitHub: https://github.com/VictoriaAlekseeva
 
-* **About me:** unemployed, looking for new carrier opportunities.
+**About me:** unemployed, looking for new carrier opportunities.
 
-  **Skills:** Beginner in HTML, CSS, JS
+**Skills:** Beginner in HTML, CSS, JS
 
-  **Code examples:**
+**Code examples:**
 
 ```
 function mygcd(x,y){
@@ -29,10 +29,12 @@ return (x+y);
 ```
 
 **Experience:**
+2010-2013 - Custumer support engineer;
+2013-2017 - Information security engineer.
 
 **Education:**
 
 1. HTML/CSS course from Geekbrains
-2. "JavaScript/ DOM/ Interfaces" for beginners
+1. "JavaScript/ DOM/ Interfaces" for beginners
 
 **Languages:** English (B2)
