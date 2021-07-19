@@ -29,8 +29,9 @@ return (x+y);
 ```
 
 **Experience:**
-2010-2013 - Custumer support engineer;
-2013-2017 - Information security engineer.
+
+- 2010-2013 - Custumer support engineer;
+- 2013-2017 - Information security engineer.
 
 **Education:**
 
