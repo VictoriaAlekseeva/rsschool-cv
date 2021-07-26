@@ -1,0 +1,45 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+  position: relative;
+  background: #f1f1ef;
+}
+
+.header {
+  background-color: #c8e9f5;
+  height: 170px;
+  padding-top: 2px;
+}
+
+.header img {
+  position: relative;
+  float: left;
+  height: 100%;
+  margin-left: 2px;
+  outline: 2px solid #f1f1ef;
+}
+
+.header-text {
+  float: left;
+  padding: 20px;
+}
+
+main {
+  margin: 10px;
+}
+
+.footer {
+  background-color: #c8e9f5;
+  height: 170px;
+  margin: 2px;
+  outline: 2px solid #f1f1ef;
+}
+
+.footer img {
+  height: 40%;
+  margin: 20px;
+}
+
+.footer-text {
+  margin-left: 20px;
+}
