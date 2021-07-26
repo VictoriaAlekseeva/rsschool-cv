@@ -28,6 +28,13 @@ main {
   margin: 10px;
 }
 
+h2 {
+  margin-top: 40px;
+}
+.text {
+  margin-left: 25px;
+}
+
 .footer {
   background-color: #c8e9f5;
   height: 170px;
