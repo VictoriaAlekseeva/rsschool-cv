@@ -40,6 +40,7 @@ Beginner in HTML,CSS,JS
 
 - HTML/CSS course from Geekbrains
 - "JavaScript/ DOM/ Interfaces" for beginners
+- RSSchool stage 0 2022 q2
 
 **Languages**
 
